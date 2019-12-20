@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LiveMVI</string>
+    <string name="counter_description">The caounter value is:</string>
+    <string name="button_increment">+</string>
+    <string name="button_decrement">-</string>
+</resources>
